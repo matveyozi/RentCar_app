@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react_template_project/static/css/main.b5320759.css",
-    "main.js": "/react_template_project/static/js/main.11b91848.js",
-    "index.html": "/react_template_project/index.html",
-    "main.b5320759.css.map": "/react_template_project/static/css/main.b5320759.css.map",
-    "main.11b91848.js.map": "/react_template_project/static/js/main.11b91848.js.map"
+    "main.css": "/RentCar_app/static/css/main.b5320759.css",
+    "main.js": "/RentCar_app/static/js/main.11b91848.js",
+    "index.html": "/RentCar_app/index.html",
+    "main.b5320759.css.map": "/RentCar_app/static/css/main.b5320759.css.map",
+    "main.11b91848.js.map": "/RentCar_app/static/js/main.11b91848.js.map"
   },
   "entrypoints": [
     "static/css/main.b5320759.css",
