@@ -1,7 +1,7 @@
 import Layout from 'components/Layout/Layout';
-import CatalogPage from 'components/Pages/CatalogPage/CatalogPage';
-import FavoritPage from 'components/Pages/FavoritPage/FavoritPage';
-import HomePage from 'components/Pages/HomePage/HomePage';
+import CatalogPage from 'Pages/CatalogPage/CatalogPage';
+import FavoritPage from 'Pages/FavoritPage/FavoritPage';
+import HomePage from 'Pages/HomePage/HomePage';
 import { Route, Routes } from 'react-router-dom';
 
 export default function App() {

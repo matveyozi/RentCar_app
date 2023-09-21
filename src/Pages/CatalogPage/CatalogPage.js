@@ -1,8 +1,9 @@
+import FilterForm from 'components/FilterForm/FilterForm'
 import React from 'react'
 
 const CatalogPage = () => {
   return (
-	<div>CatalogPage</div>
+	<FilterForm/>
   )
 }
 
